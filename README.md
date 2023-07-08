@@ -95,4 +95,4 @@ This challenge is completely free. Please share it with anyone who will find it 
 https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62
 
 **Live-Preview:**
-https://hisham3243.github.io/stats-preview-card/
+https://hisham-echo.github.io/stats-preview-card/
